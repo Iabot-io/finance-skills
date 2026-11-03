@@ -38,7 +38,7 @@ La colección no instala aplicaciones ni concede accesos. Las referencias se com
 
 ## Fuentes de referencia
 
-- [Banco de España, Central de Balances](https://www.bde.es/wbe/es/areas-actuacion/estadisticas/central-balances/)
+- [Banco de España, Central de Balances](https://www.bde.es/wbe/es/areas-actuacion/central-balances/)
 - [Finanzas para Todos](https://www.finanzasparatodos.es/)
 
 Las fuentes orientan el método; su enlace no significa que una institución certifique o avale estas skills.

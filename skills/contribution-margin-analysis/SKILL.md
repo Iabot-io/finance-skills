@@ -48,5 +48,5 @@ Usa [el registro de trabajo](assets/registro.csv) cuando no exista una plantilla
 
 ## Referencias
 
-- [Banco de España, Central de Balances](https://www.bde.es/wbe/es/areas-actuacion/estadisticas/central-balances/)
+- [Banco de España, Central de Balances](https://www.bde.es/wbe/es/areas-actuacion/central-balances/)
 - [Finanzas para Todos](https://www.finanzasparatodos.es/)

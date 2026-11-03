@@ -29,7 +29,7 @@ Trabaja con saldos, vencimientos, cobros, pagos previstos y supuestos del negoci
 1. Fija fecha de corte, cuentas, moneda y saldo conciliado; no sumes transferencias internas como ingresos nuevos.
 2. Distribuye cobros y pagos por fecha prevista distinguiendo vencimiento contractual y expectativa.
 3. Separa partidas comprometidas, recurrentes y estimadas y conserva fuente de cada supuesto.
-4. Calcula saldo final por periodo y escenarios con cambios explícitos de plazo o importe.
+4. Calcula saldo final por periodo y escenarios con cambios explícitos de plazo o importe. Si falta un tipo de cambio, conserva la partida en su moneda y etiqueta el agregado convertido como parcial; no presentes ese subtotal como caja final completa.
 5. Entrega necesidades potenciales de caja y datos pendientes sin ejecutar movimientos financieros.
 
 ## Comprobación del resultado
@@ -48,5 +48,5 @@ Usa [el registro de trabajo](assets/registro.csv) cuando no exista una plantilla
 
 ## Referencias
 
-- [Banco de España, Central de Balances](https://www.bde.es/wbe/es/areas-actuacion/estadisticas/central-balances/)
+- [Banco de España, Central de Balances](https://www.bde.es/wbe/es/areas-actuacion/central-balances/)
 - [Finanzas para Todos](https://www.finanzasparatodos.es/)

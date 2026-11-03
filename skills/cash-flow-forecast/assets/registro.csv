@@ -1,1 +1,1 @@
-periodo,cuenta,saldo_inicial,tipo_movimiento,importe,fecha_prevista,certeza,fuente,saldo_final
+periodo,cuenta,saldo_inicial,moneda,tipo_movimiento,importe,fecha_prevista,certeza,tipo_cambio,fuente_cambio,fuente,saldo_calculable,partida_sin_convertir,estado_total
